@@ -1,0 +1,12 @@
+sample_name	unit_name	fq1	fq2	sra	adapters
+I0A0_hi	wgs1	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132508-LR-70317_R1.fastq.gz	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132508-LR-70317_R2.fastq.gz	NA	-a ACGGCTAGCTA -A AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC
+P0I43Z_hi	wgs1	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132501-LR-70617_R1.fastq.gz	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132501-LR-70617_R2.fastq.gz	NA	-a ACGGCTAGCTA -A AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC
+Y0L5_hi	wgs1	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132502-LR-70617_R1.fastq.gz	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132502-LR-70617_R2.fastq.gz	NA	-a ACGGCTAGCTA -A AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC
+J8R5_hi	wgs1	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132500-LR-70617_R1.fastq.gz	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132500-LR-70617_R2.fastq.gz	NA	-a ACGGCTAGCTA -A AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC
+M4M51_hi	wgs1	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132506-LR-70317_R1.fastq.gz	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132506-LR-70317_R2.fastq.gz	NA	-a ACGGCTAGCTA -A AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC
+I0A0_lo	wgs1	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132507-LR-70317_R1.fastq.gz	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132507-LR-70317_R2.fastq.gz	NA	-a ACGGCTAGCTA -A AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC
+P0I43Z_lo	wgs1	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132503-LR-70617_R1.fastq.gz	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132503-LR-70617_R2.fastq.gz	NA	-a ACGGCTAGCTA -A AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC
+Y0L5_lo	wgs1	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132504-LR-70617_R1.fastq.gz	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132504-LR-70617_R2.fastq.gz	NA	-a ACGGCTAGCTA -A AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC
+J8R5_lo	wgs1	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132499-LR-70617_R1.fastq.gz	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132499-LR-70617_R2.fastq.gz	NA	-a ACGGCTAGCTA -A AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC
+M4M51_lo	wgs1	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132505-LR-70317_R1.fastq.gz	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132505-LR-70317_R2.fastq.gz	NA	-a ACGGCTAGCTA -A AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC
+SK-N-MC	wgs1	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132509-LR-70317_R1.fastq.gz	/media/maxkerk/Bigdata1/GEOupload/WGS/AS-1132509-LR-70317_R2.fastq.gz	NA	-a ACGGCTAGCTA -A AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC

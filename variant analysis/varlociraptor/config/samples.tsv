@@ -1,0 +1,12 @@
+sample_name	alias	group	platform	purity	sex	datatype	calling	mutational_burden_events
+I0A0_hi	cell	I0A0_hi	ILLUMINA	0.99	female	dna	variants	het,hom
+P0I43Z_hi	cell	P0I43Z_hi	ILLUMINA	0.99	female	dna	variants	het,hom
+Y0L5_hi	cell	Y0L5_hi	ILLUMINA	0.99	female	dna	variants	het,hom
+J8R5_hi	cell	J8R5_hi	ILLUMINA	0.99	female	dna	variants	het,hom
+M4M51_hi	cell	M4M51_hi	ILLUMINA	0.99	male	dna	variants	het,hom
+I0A0_lo	cell	I0A0_lo	ILLUMINA	0.99	female	dna	variants	het,hom
+P0I43Z_lo	cell	P0I43Z_lo	ILLUMINA	0.99	female	dna	variants	het,hom
+Y0L5_lo	cell	Y0L5_lo	ILLUMINA	0.99	female	dna	variants	het,hom
+J8R5_lo	cell	J8R5_lo	ILLUMINA	0.99	female	dna	variants	het,hom
+M4M51_lo	cell	M4M51_lo	ILLUMINA	0.99	male	dna	variants	het,hom
+SK-N-MC	cell	SKNMC	ILLUMINA	0.99	female	dna	variants	het,hom
